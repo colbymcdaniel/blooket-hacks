@@ -1,5 +1,26 @@
 # blooket-hacks
 
+The hacks are currently down, and there is a fix currently being worked on.
+Thank you for understanding, and keep checking back on this repo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DISCLAIMER: These are @glixzzy's blooket hacks. There is a version 4.3 tree that was left over when the repo's / commits were left over.
 There are multiple ways to access the hacks.
 
