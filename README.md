@@ -1,6 +1,6 @@
 # blooket-hacks
 
-The hacks are currently down, and there is a fix currently being worked on.
+WARNING: The hacks are currently down, and there is a fix currently being worked on.
 Thank you for understanding, and keep checking back on this repo.
 
 
