@@ -1,5 +1,7 @@
 # blooket-hacks
 
-DISCLAIMER: These are @glixzzy's blooket hacks. There is a code transfer to a blocked website, and here are the scripts from that website.
-Dont ask me "What happened to @glixzzy?" or "What is a cease and desist?"
-Anyway love yall and hope you love these hacks
+DISCLAIMER: These are NOT @glixzzy's blooket hacks. I recoded all of them in the past week. You may be like "Ohhh well whats the proof? Huh? Thats right? None!"
+
+# Proof
+
+https://imgur.com/a/Whg9hOC (unobfuscated)
